@@ -61,3 +61,5 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem 'ai_assistant', path: '/home/void/apps/home/ai/ai_assistant'

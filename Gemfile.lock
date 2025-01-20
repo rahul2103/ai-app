@@ -1,3 +1,8 @@
+PATH
+  remote: /home/void/apps/home/ai/ai_assistant
+  specs:
+    ai_assistant (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -345,6 +350,7 @@ PLATFORMS
   x86_64-linux-musl
 
 DEPENDENCIES
+  ai_assistant!
   bootsnap
   brakeman
   capybara
